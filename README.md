@@ -5,7 +5,9 @@ hackNY Spring 2015 Submission
 
 _Choose your next gift... through a gif_
 
-See it live here! [kennydurk.in/giphetsy](http://kennydurk.in/giphetsy).
+We used the Giphy API to get a selection of random GIFs, and passed the first tag associated with each into Etsy API queries, hoping to link them to relevant Etsy crafts. The final result wasn't perfect, but is a ton of fun to play around with!
+
+See it live here: [kennydurk.in/giphetsy](http://kennydurk.in/giphetsy).
 
 *Members*
 
